@@ -1,5 +1,9 @@
 # Changelog
 
+> v1.4.1
+
+- Change title font from Nexa Bold to Poppins Bold 
+
 > v1.4.0
 
 - Add PR #48 : Fix the default archetype
