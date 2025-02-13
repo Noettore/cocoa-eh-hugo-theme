@@ -32,7 +32,7 @@ A demo is available [here](https://themes.gohugo.io/theme/cocoa-eh-hugo-theme/).
 
 The **typography** is what makes Cocoa-EH look cool. The fonts used are:
 
-* *Nexa Bold* for the blog name, a strong and opinionated font
+* *Poppins Bold* for the blog name, a strong and opinionated font
 * *Raleway* for the titles, light but clearly visible
 * *Merriweather* for the text, an awesome sans serif font to read without difficulties
 * *Ubuntu Mono* for the code
